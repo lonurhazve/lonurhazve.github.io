@@ -1,0 +1,5 @@
+---
+title: "Jalani kehidupan dengan apa yang ditentukan !"
+date: 2009-04-08
+---
+Dari generasi ke generasi, semakin lama usia kehidupan manusia di dunia ini,  menyaksikan perubahan yang amat ketara pada masyarakat kita. Masyarakat yang wujud sekarang bolehlah dikatakan bertamadun, tetapi tidaklah bertamadun dari sudut hati nurani.<br/><br/>Kehidupan manusia sekarang lebih memikirkan harta, pangkat, darjat serta apa yang istimewa di dunia ini saja tidak pada akhirat. Prinsip boleh diubah demi pangkat, kejahatan boleh disembunyikan demi wang dan kedudukan, sesetengah orang lebih rela meninggalkan tanggungjawab yang lebih penting demi meraikan orang yang berpengaruh, penilaian terhadap seseorang tidak dinilai pada keupayaan malah dilihat pada kedudukan seseorang itu. Pada pandangan pertama, yang dilihat baik tak semestinya baik, yang dilihat jahat tak semestinya jahat. Lihatlah pada pandangan kedua, ketiga dan sehingga kita mendapat jawapan. Mmm... begitulah berlakunya ketidakadilan kehidupan ini. Sesungguhnya ianya adalah sementara, hanya Allah S.W.T lebih mengetahui.

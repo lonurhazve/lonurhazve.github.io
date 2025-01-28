@@ -1,0 +1,7 @@
+---
+title: "How to Import Wordpress to Blogspot Blog ?"
+date: 2010-04-21
+---
+<div style="text-align: justify;"><b>1.Export data daripada Wordpress</b>&nbsp;</div><div style="text-align: justify;">Masuk login ke Wordpress account, pergi ke <b><i>Dashboard</i></b>, click <b><i>tools tab, </i></b><i>click <b>Export Link</b></i><b>.</b> Anda boleh download<b> </b>data wordpress WXR dalam dormat xml, click <b><i>Download Export File</i></b><i> </i>dan simpan ke pc anda.</div><div style="text-align: justify;"><br />
+</div><div style="text-align: justify;"><b>2. Convert</b>&nbsp;</div><div style="text-align: justify;">Simple,kita boleh gunakan converter yang disediakan di Wordpress2Blogger, pergi ke <a href="http://wordpress2blogger.appspot.com/">http://wordpress2blogger.appspot.com</a>, lihat converter di item no 6, click <b><i>browse</i></b> dan cari fail<span class="fullpost"> wordpress format xml yang telah disimpan tadi dan clikk butang <i>convert. </i>Fail anda akan di covert ke format blogspot, simpan fail tersebut.</span></div><div style="text-align: justify;"><span class="fullpost"><br />
+<b>3. Import to Blogspot Account</b></span></div><div style="text-align: justify;"><span class="fullpost">Login ke Blogspot account dan klik <b>dashboard: <span style="font-style: italic;">Settings &gt; Basic</span> tab, click Import</b>, cari fail yang telah anda convert tadi. Anda akan dapat semua post dan comment daripada wordpress dalam blogspot anda.</span></div>

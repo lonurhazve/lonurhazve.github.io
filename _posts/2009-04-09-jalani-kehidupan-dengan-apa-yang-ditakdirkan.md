@@ -1,0 +1,5 @@
+---
+title: "JALANI KEHIDUPAN DENGAN APA YANG DITAKDIRKAN"
+date: 2009-04-09
+---
+<div style="text-align: justify;" class="snap_preview"><p>Dari generasi ke generasi, semakin lama usia kehidupan manusia di dunia ini,  menyaksikan perubahan yang amat ketara pada masyarakat kita. Masyarakat yang wujud sekarang bolehlah dikatakan bertamadun, tetapi tidaklah bertamadun dari sudut hati nurani.</p> <p>Kehidupan manusia sekarang lebih memikirkan harta, pangkat, darjat serta apa yang istimewa di dunia ini saja tidak pada akhirat. Prinsip boleh diubah demi pangkat, kejahatan boleh disembunyikan demi wang dan kedudukan, sesetengah orang lebih rela meninggalkan tanggungjawab yang lebih penting demi meraikan orang yang berpengaruh, penilaian terhadap seseorang tidak dinilai pada keupayaan malah dilihat pada kedudukan seseorang itu. Pada pandangan pertama, yang dilihat baik tak semestinya baik, yang dilihat jahat tak semestinya jahat. Lihatlah pada pandangan kedua, ketiga dan sehingga kita mendapat jawapan. Mmm… begitulah berlakunya ketidakadilan kehidupan ini. Sesungguhnya ianya adalah sementara, hanya Allah S.W.T lebih mengetahui.</p></div>
