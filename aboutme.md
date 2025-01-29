@@ -1,16 +1,7 @@
 ---
 layout: page
-title: About me
+title: Lonurhazve?
 subtitle: Why you'd want to go on a date with me
 ---
+<a href="http://lonurhazve.files.wordpress.com/2008/10/aiman1.jpg"><a href="http://lonurhazve.files.wordpress.com/2008/10/aiman2.jpg"><a href="http://lonurhazve.files.wordpress.com/2008/10/aiman11.jpg"><img class="aligncenter size-full wp-image-74" title="aiman1" src="http://lonurhazve.files.wordpress.com/2008/10/aiman11.jpg" alt="" width="273" height="272" /></a></a></a><br/><p style="text-align:center;">lonurhavze adalah kecintaan kepada insan yang disayangi, yang melengkapi kehidupan ini. Memberi semangat dan dorongan dalam menjalani sisa kehidupan di dunia yang akan berakhir jua suatu hari nanti. Bersama-sama memenuhi tuntutan tuhan yang Ilahi demi mencapai keberkatan dan kebahagiaan di akhirat.</p>
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
