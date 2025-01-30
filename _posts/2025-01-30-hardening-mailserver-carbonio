@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Securing Your Mail Server with Fail2Ban and GeoLite2"
+title: "Securing Mail Server with Ensures That Only Foreign Attackers Are Blocked To Attempt Logins Safely"
 date: 2025-01-30
 categories: MailServer
 tags: [mail, smtp, fail2ban, carbonio ce, zextras, opensource]
 ---
 
-
+Securing Mail Server with Ensures That Only Foreign Attackers Are Blocked To Attempt Logins Safely
 
 In this tutorial, we will set up Fail2Ban with GeoLite2 to block repeated failed SASL authentication attempts and restrict access only to Malaysian IPs. This helps prevent brute-force attacks on your mail server running Postfix on Ubuntu 22.04.
 
@@ -98,4 +98,4 @@ If an attacker attempts multiple failed logins, your log (/var/log/mail.log) mig
 
 Jan 30 09:28:00 mail postfix/smtps/smtpd[810753]: warning: unknown[197.255.196.83]:65410: SASL LOGIN authentication failed: authentication failure, sasl_username=johndoe
 
-Fail2Ban will then ban the IP if it is not from Malaysia.
+Fail2Ban will then ban the IP if it is not from Malaysia. Feel free to modify the setting with your country code.
