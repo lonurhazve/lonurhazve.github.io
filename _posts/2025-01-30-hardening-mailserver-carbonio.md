@@ -8,7 +8,7 @@ tags: [mail, smtp, fail2ban, carbonio ce, zextras, opensource]
 
 # Setting Up Fail2Ban with GeoLite2 to Block SASL Authentication Attacks
 
-We will set up Fail2Ban with GeoLite2 to block repeated failed SASL authentication attempts and restrict access only to Malaysian IPs. This helps prevent brute-force attacks on your mail server running Postfix on Ubuntu 22.04.
+We will set up Fail2Ban with GeoLite2 to block repeated failed SASL authentication attempts and restrict access only to Malaysian IPs. This helps prevent brute-force attacks on your mail server running Postfix.
 
 ## Install Fail2Ban and GeoLite2
 
