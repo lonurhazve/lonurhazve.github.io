@@ -13,7 +13,7 @@ date: 2025-01-28
 
 2. Arahan ini akan memaparkan senarai fail yang mengandungi teks tersebut. Contoh yang saya dapat:
    
-   ```sh
+   ```log
    /opt/zextras/web/iris/carbonio-mails-ui/30ed9d1491400e80f4ec5e16939456d00a4f3ce3/534.a41dc3b1.chunk.js
    /opt/zextras/web/iris/carbonio-mails-ui/30ed9d1491400e80f4ec5e16939456d00a4f3ce3/534.a43dc6b1.chunk.map
    ```
