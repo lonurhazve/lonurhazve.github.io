@@ -1,65 +1,65 @@
 ---
-title: "Zextras Carbonio CE : Customize Printview/printpage Carbonio Community Edition"
+title: "Zextras Carbonio CE: Customize Printview/printpage Carbonio Community Edition"
 date: 2025-01-28
 ---
 
-## Cari Fail yang Mengandungi Title "Carbonio"
+Find Files Containing the Title "Carbonio"
 
-1. Jalankan arahan berikut untuk mencari fail yang mengandungi "Carbonio":
+Run the following command to search for files containing "Carbonio":
    
    ```sh
    grep "<title>Carbonio</title>" /opt/zextras/web/iris/carbonio-mails-ui/* -rl
    ```
 
-2. Arahan ini akan memaparkan senarai fail yang mengandungi teks tersebut. Contoh yang saya dapat:
+This command will display a list of files containing that text. An example output:
    
    ```log
    /opt/zextras/web/iris/carbonio-mails-ui/30ed9d1491400e80f4ec5e16939456d00a4f3ce3/534.a41dc3b1.chunk.js
    /opt/zextras/web/iris/carbonio-mails-ui/30ed9d1491400e80f4ec5e16939456d00a4f3ce3/534.a43dc6b1.chunk.map
    ```
 
-## Backup Fail
+Backup Files
 
-Dinasihatkan sentiasa buat salinan fail sebelum melakukan sebarang perubahan.
+It is always recommended to create a backup before making any modifications.
 
-1. Jalankan arahan berikut untuk membuat salinan fail:
+Run the following command to create a backup of the file:
    
    ```sh
    cp /opt/zextras/web/iris/carbonio-mails-ui/30ed9d1491400e80f4ec5e16939456d00a4f3ce3/534.a41dc3b1.chunk.js \
    /opt/zextras/web/iris/carbonio-mails-ui/30ed9d1491400e80f4ec5e16939456d00a4f3ce3/534.a41dc3b1.chunk.js.bak
    ```
 
-## Menukar Title Menggunakan `sed`
+Changing the Title Using `sed`
 
-1. Gantikan title "Carbonio" dengan tajuk baru menggunakan arahan `sed`:
+1. Replace the title "Carbonio" with a new title using the `sed` command:
    
    ```sh
-   sed -i s/"<title>Carbonio</title>"/"<title>TAJUK BARU</title>"/g \
+   sed -i s/"<title>Carbonio</title>"/"<title>NEW TITLE</title>"/g \
    /opt/zextras/web/iris/carbonio-mails-ui/30ed9d1491400e80f4ec5e16939456d00a4f3ce3/534.a41dc3b1.chunk.js
    ```
 
-   - Gantikan `TAJUK BARU` dengan teks yang anda mahu.
+   - Replace `NEW TITLE` with the desired text.
 
-## Mengedit Secara Manual
+Editing Manually
 
-Sekiranya anda ingin mengedit fail secara manual, kena berhati-hati:
+If you prefer to edit the file manually, proceed with caution:
 
-1. Buka fail menggunakan editor teks seperti `nano`:
+Open the file using a text editor like `nano`:
    
    ```sh
    nano /opt/zextras/web/iris/carbonio-mails-ui/30ed9d1491400e80f4ec5e16939456d00a4f3ce3/534.a41dc3b1.chunk.js
    ```
 
-2. Cari baris yang mengandungi:
+Look for the following line:
    
    ```html
    <title>Carbonio</title>
    ```
 
-3. Tukar kepada:
+Change it to:
    
    ```html
-   <title>TAJUK BARU</title>
+   <title>NEW TITLE</title>
    ```
 
-4. Simpan fail dan keluar dari editor teks. Kita juga boleh menukar Header Content dalam printview pada fail ini.
+Save the file and exit the text editor. You can also modify the Header Content in the printview within this file.
