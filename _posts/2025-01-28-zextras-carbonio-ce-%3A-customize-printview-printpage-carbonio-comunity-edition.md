@@ -35,7 +35,7 @@ Dinasihatkan sentiasa buat salinan fail sebelum melakukan sebarang perubahan.
    
    ```sh
    sed -i s/"<title>Carbonio</title>"/"<title>TAJUK BARU</title>"/g \
-       /opt/zextras/web/iris/carbonio-mails-ui/30ed9d1491400e80f4ec5e16939456d00a4f3ce3/534.a41dc3b1.chunk.js
+   /opt/zextras/web/iris/carbonio-mails-ui/30ed9d1491400e80f4ec5e16939456d00a4f3ce3/534.a41dc3b1.chunk.js
    ```
 
    - Gantikan `TAJUK BARU` dengan teks yang anda mahu.
