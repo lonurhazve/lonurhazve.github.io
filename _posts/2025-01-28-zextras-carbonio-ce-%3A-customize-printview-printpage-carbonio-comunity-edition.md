@@ -34,11 +34,11 @@ Changing the Title Using `sed`
 1. Replace the title "Carbonio" with a new title using the `sed` command:
    
    ```sh
-   sed -i s/"<title>Carbonio</title>"/"<title>NEW TITLE</title>"/g \
+   sed -i s/"<title>Carbonio</title>"/"<title>TAJUK BARU</title>"/g \
    /opt/zextras/web/iris/carbonio-mails-ui/30ed9d1491400e80f4ec5e16939456d00a4f3ce3/534.a41dc3b1.chunk.js
    ```
 
-   - Replace `NEW TITLE` with the desired text.
+   - Replace `TAJUK BARU` with the desired text.
 
 Editing Manually
 
@@ -59,7 +59,7 @@ Look for the following line:
 Change it to:
    
    ```html
-   <title>NEW TITLE</title>
+   <title>TAJUK BARU</title>
    ```
 
 Save the file and exit the text editor. You can also modify the Header Content in the printview within this file.
