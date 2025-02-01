@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+/*@font-face {
+    font-family: "CustomFont";
+    src: url("/assets/fonts/CustomFont.woff2") format("woff2"),
+         url("/assets/fonts/CustomFont.woff") format("woff");
+}  */
+
+body {
+    font-family: "Poppins", "CustomFont", sans-serif;
+    font-size: 12px;
+    line-height: 1.6;
+}
+
