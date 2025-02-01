@@ -1,3 +1,23 @@
+/* Styling for the Title */
+.site-title {
+    font-family: "Poppins", sans-serif; /* Change this to your preferred font */
+    font-size: 36px; /* Adjust the size as needed */
+    font-weight: 700; /* Bold */
+    text-align: center; /* Center align if needed */
+    color: #333; /* Change color as needed */
+}
+
+/* Styling for the Subtitle */
+.site-subtitle {
+    font-family: "Georgia", serif; /* Change to your preferred font */
+    font-size: 18px; /* Adjust subtitle size */
+    font-weight: bold; /* Makes it bold */
+    font-style: italic; /* Makes it italic */
+    text-align: center; /* Center align */
+    color: #666; /* Adjust subtitle color */
+}
+
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 
 /*@font-face {
